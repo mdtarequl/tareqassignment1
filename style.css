@@ -1,0 +1,148 @@
+.header {
+
+    background: rgba(229, 84, 115, 0.10);
+    padding: 100px;
+    height: 500px;
+
+}
+
+.h-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.himage {
+    width: 635px;
+    height: 850px;
+    padding: 20px;
+}
+
+.btn {
+
+    padding: 20px 43px;
+
+
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/*header content css here */
+.content-1 {
+
+    width: 708px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #272727;
+    font-family: Lato;
+    font-size: 60px;
+
+    font-weight: 800;
+    padding: 100px 0 0 0;
+
+}
+
+.content-2 {
+
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 10px;
+
+
+}
+
+/* this is for 2nd section css code . staring point here */
+.f-flower {
+
+    display: flex;
+    background: #FFF;
+    justify-content: space-around;
+    
+height: 600px;
+}
+
+.content-3 {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 100px;
+    justify-content: space-around;
+
+
+
+}
+
+.fs-img {
+    border-radius: 464px 538px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 300px;
+    height: 480px;
+    padding-top: 45px;
+    padding-right: 20px;
+}
+.img-text{
+    margin-top: 70px;
+    margin-left: 50px;
+    color: #272727;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.img-text-2{
+    font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+margin-top: 125px;
+margin-left: 70px;
+
+}
+.img-text-3{
+    font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+margin-top: 20px;
+margin-left: 20px;
+}
+
+/*section 3 code writing will be startted from here */
+
+.service{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+max-width: 900px;
+
+
+}
+.service-content{
+    width: 330px;
+height: 220px;
+padding-top: 45px;
+padding-left: 15px;
+margin-right: -30px;
+
+
+}
