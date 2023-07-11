@@ -65,8 +65,8 @@
     display: flex;
     background: #FFF;
     justify-content: space-around;
-    
-height: 600px;
+
+    height: 600px;
 }
 
 .content-3 {
@@ -93,56 +93,156 @@ height: 600px;
     padding-top: 45px;
     padding-right: 20px;
 }
-.img-text{
+
+.img-text {
     margin-top: 70px;
     margin-left: 50px;
     color: #272727;
-font-family: Lato;
-font-size: 24px;
-font-style: normal;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
-}
-.img-text-2{
     font-family: Lato;
-font-size: 24px;
-font-style: normal;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
-margin-top: 125px;
-margin-left: 70px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+.img-text-2 {
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 125px;
+    margin-left: 70px;
 
 }
-.img-text-3{
+
+.img-text-3 {
     font-family: Lato;
-font-size: 24px;
-font-style: normal;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
-margin-top: 20px;
-margin-left: 20px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 /*section 3 code writing will be startted from here */
 
-.service{
+.service {
     display: flex;
     justify-content: space-around;
     border-radius: 8px;
-background: rgba(39, 39, 39, 0.05);
-max-width: 900px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
 
 
 }
-.service-content{
-    width: 330px;
-height: 220px;
-padding-top: 45px;
-padding-left: 15px;
-margin-right: -30px;
+
+.service-content {
+    width: 380px;
+    height: 220px;
+    padding-top: 45px;
+    padding-left: 15px;
+    margin-right: -30px;
 
 
+}
+
+/*hot deal section started from here */
+.hotdeal-btn {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    margin-left: 70px;
+
+
+
+}
+
+.off {
+    color: #E55473;
+    display: inline;
+}
+
+.hotdeal {
+
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.hot-img {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+
+
+}
+
+.hot-content {
+    align-items: center;
+}
+
+/*footer sectio will be written her */
+
+.footer-1 {
+    display: flex;
+   background-image: url(image/bg.png);
+   background-repeat: no-repeat;
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-bottom: 40px;
+   height: 150px;
+   padding: 20px;
+}
+.fcontent-2{
+    
+}
+.fcontent-2{
+  margin-left: 400px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.fbtn{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 8px;
+background: #E55473;
+}
+/*end section wil be start here */
+
+.end{
+    background: #111010;
+    height: 200px;
+    padding-top: 25px;
+}
+.end-c{
+    color: #FFF;
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+}
+.fs{
+    margin-top: 20px;
+}
+.f-5{
+    color: red;
+    padding-left: 2px;
 }
